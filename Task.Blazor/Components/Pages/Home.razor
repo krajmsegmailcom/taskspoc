@@ -1,0 +1,74 @@
+﻿@page "/"
+@inject HttpClient _httpClient
+@inject TaskService TaskService
+@inject IJSRuntime JSRuntime
+@inject NavigationManager NavigationManager
+@inject HttpClient _httpClient
+@inject TaskService TaskService
+@using Newtonsoft.Json
+@using System.Text
+@using Task.Blazor.Services
+@inject HttpClient _httpClient
+@inject IJSRuntime JSRuntime
+@rendermode InteractiveServer
+@inject NavigationManager NavigationManager
+
+
+<EditForm Model="@loginModel" OnValidSubmit="HandleLogin" class="login_body" >
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="login_form">
+        <h2 class="text-center">Login Form</h2>
+    <div class="form-group mt-4">
+        <label for="Username">Username:</label>
+            <InputText id="Username" class="form-control mt-2" @bind-Value="loginModel.Username" />
+    </div>
+
+    <div class="form-group mt-4">
+        <label for="Password">Password:</label>
+            <InputText id="Password" type="password" class="form-control mt-2" @bind-Value="loginModel.Password" />
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-4">Login</button>
+    </div>
+</EditForm>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    protected override async Task OnInitializedAsync()
+    {
+        string username = GlobalVariables.GlobalUsername;
+        Console.WriteLine(username);
+        if (string.IsNullOrEmpty(username))
+        {
+
+        }
+        else
+        {
+            NavigationManager.NavigateTo("/Tasktable");
+        }
+    }
+    private async Task HandleLogin()
+    {
+        if (await TaskService.ValidateUserAsync(loginModel.Username, loginModel.Password))
+        {
+            GlobalVariables.GlobalUsername = loginModel.Username;
+            Console.WriteLine(GlobalVariables.GlobalUsername);
+            NavigationManager.NavigateTo("/Tasktable"); 
+        }
+        else
+        {
+            // Handle invalid login
+        }
+    }
+
+    public class LoginModel
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
+    }
+    public static class GlobalVariables
+    {
+        public static string GlobalUsername { get; set; }
+    }
+}

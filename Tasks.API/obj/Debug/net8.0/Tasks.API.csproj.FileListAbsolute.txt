@@ -1,0 +1,1458 @@
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\appsettings.Development.json
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\appsettings.json
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.API.exe
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.API.deps.json
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.API.runtimeconfig.json
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.API.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.API.pdb
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.AssemblyReference.cache
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfoInputs.cache
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfo.cs
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.CoreCompileInputs.cache
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cs
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.API.props
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.API.props
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.API.props
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\scopedcss\bundle\Tasks.API.styles.css
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.Up2Date
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\refint\Tasks.API.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.pdb
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\Tasks.API.genruntimeconfig.cache
+D:\workspace\clients\uvaraj\test\Tasks.API\obj\Debug\net8.0\ref\Tasks.API.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.pdb
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Humanizer.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\clients\uvaraj\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\appsettings.Development.json
+C:\task\test\Tasks.API\bin\Debug\net8.0\appsettings.json
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.API.exe
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.API.deps.json
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.API.runtimeconfig.json
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.API.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.API.pdb
+C:\task\test\Tasks.API\bin\Debug\net8.0\Humanizer.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.pdb
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.AssemblyReference.cache
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfoInputs.cache
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfo.cs
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.CoreCompileInputs.cache
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\task\test\Tasks.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\task\test\Tasks.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\task\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\task\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.API.props
+C:\task\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.API.props
+C:\task\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.API.props
+C:\task\test\Tasks.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\task\test\Tasks.API\obj\Debug\net8.0\scopedcss\bundle\Tasks.API.styles.css
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.Up2Date
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.dll
+C:\task\test\Tasks.API\obj\Debug\net8.0\refint\Tasks.API.dll
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.pdb
+C:\task\test\Tasks.API\obj\Debug\net8.0\Tasks.API.genruntimeconfig.cache
+C:\task\test\Tasks.API\obj\Debug\net8.0\ref\Tasks.API.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.pdb
+C:\task\test\Tasks.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\SendGrid.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\SendGrid.SmtpApi.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\task\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\appsettings.json
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.exe
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.deps.json
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.runtimeconfig.json
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.pdb
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Humanizer.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\SendGrid.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\SendGrid.SmtpApi.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.dll
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.pdb
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.pdb
+C:\Task\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.AssemblyReference.cache
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfoInputs.cache
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfo.cs
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.CoreCompileInputs.cache
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.API.props
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.API.props
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.API.props
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\scopedcss\bundle\Tasks.API.styles.css
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.Up2Date
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.dll
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\refint\Tasks.API.dll
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.pdb
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.genruntimeconfig.cache
+C:\Task\test\test\Tasks.API\obj\Debug\net8.0\ref\Tasks.API.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.exe
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.deps.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.runtimeconfig.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.API.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\SendGrid.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\SendGrid.SmtpApi.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.AssemblyReference.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfoInputs.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfo.cs
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.CoreCompileInputs.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.API.props
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.API.props
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.API.props
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\scopedcss\bundle\Tasks.API.styles.css
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.Up2Date
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\refint\Tasks.API.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\Tasks.API.genruntimeconfig.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.API\obj\Debug\net8.0\ref\Tasks.API.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\appsettings.Development.json
+C:\task4\test\Tasks.API\bin\Debug\net8.0\appsettings.json
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.API.exe
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.API.deps.json
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.API.runtimeconfig.json
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.API.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.API.pdb
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Humanizer.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\SendGrid.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\SendGrid.SmtpApi.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.pdb
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.pdb
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.AssemblyReference.cache
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfoInputs.cache
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfo.cs
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.CoreCompileInputs.cache
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\task4\test\Tasks.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\task4\test\Tasks.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\task4\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\task4\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.API.props
+C:\task4\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.API.props
+C:\task4\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.API.props
+C:\task4\test\Tasks.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\task4\test\Tasks.API\obj\Debug\net8.0\scopedcss\bundle\Tasks.API.styles.css
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.Up2Date
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.dll
+C:\task4\test\Tasks.API\obj\Debug\net8.0\refint\Tasks.API.dll
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.pdb
+C:\task4\test\Tasks.API\obj\Debug\net8.0\Tasks.API.genruntimeconfig.cache
+C:\task4\test\Tasks.API\obj\Debug\net8.0\ref\Tasks.API.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\task4\test\Tasks.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.API.exe
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.API.deps.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.API.runtimeconfig.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.API.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.API.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\SendGrid.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\SendGrid.SmtpApi.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.AssemblyReference.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfoInputs.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfo.cs
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.CoreCompileInputs.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.API.props
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.API.props
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.API.props
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\scopedcss\bundle\Tasks.API.styles.css
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.Up2Date
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\refint\Tasks.API.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\Tasks.API.genruntimeconfig.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.API\obj\Debug\net8.0\ref\Tasks.API.dll
+C:\test\Tasks.API\bin\Debug\net8.0\appsettings.Development.json
+C:\test\Tasks.API\bin\Debug\net8.0\appsettings.json
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.API.exe
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.API.deps.json
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.API.runtimeconfig.json
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.API.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.API.pdb
+C:\test\Tasks.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Humanizer.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\test\Tasks.API\bin\Debug\net8.0\SendGrid.dll
+C:\test\Tasks.API\bin\Debug\net8.0\SendGrid.SmtpApi.dll
+C:\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\test\Tasks.API\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\test\Tasks.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\test\Tasks.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\test\Tasks.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\test\Tasks.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\test\Tasks.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\test\Tasks.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\test\Tasks.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\test\Tasks.API\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.dll
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.pdb
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.pdb
+C:\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.AssemblyReference.cache
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfoInputs.cache
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfo.cs
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.CoreCompileInputs.cache
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\test\Tasks.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\test\Tasks.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.API.props
+C:\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.API.props
+C:\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.API.props
+C:\test\Tasks.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\test\Tasks.API\obj\Debug\net8.0\scopedcss\bundle\Tasks.API.styles.css
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.Up2Date
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.dll
+C:\test\Tasks.API\obj\Debug\net8.0\refint\Tasks.API.dll
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.pdb
+C:\test\Tasks.API\obj\Debug\net8.0\Tasks.API.genruntimeconfig.cache
+C:\test\Tasks.API\obj\Debug\net8.0\ref\Tasks.API.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\appsettings.Development.json
+C:\task5\test\Tasks.API\bin\Debug\net8.0\appsettings.json
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.API.exe
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.API.deps.json
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.API.runtimeconfig.json
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.API.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.API.pdb
+C:\task5\test\Tasks.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Humanizer.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\SendGrid.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\SendGrid.SmtpApi.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.dll
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.Application.pdb
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.Core.pdb
+C:\task5\test\Tasks.API\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.AssemblyReference.cache
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfoInputs.cache
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.AssemblyInfo.cs
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.CoreCompileInputs.cache
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\task5\test\Tasks.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\task5\test\Tasks.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\task5\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\task5\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.API.props
+C:\task5\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.API.props
+C:\task5\test\Tasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.API.props
+C:\task5\test\Tasks.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\task5\test\Tasks.API\obj\Debug\net8.0\scopedcss\bundle\Tasks.API.styles.css
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.csproj.Up2Date
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.dll
+C:\task5\test\Tasks.API\obj\Debug\net8.0\refint\Tasks.API.dll
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.pdb
+C:\task5\test\Tasks.API\obj\Debug\net8.0\Tasks.API.genruntimeconfig.cache
+C:\task5\test\Tasks.API\obj\Debug\net8.0\ref\Tasks.API.dll

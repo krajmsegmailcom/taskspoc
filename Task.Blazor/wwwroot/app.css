@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    background-color: transparent;
+    border-collapse: collapse;
+}
+
+    .table th,
+    .table td {
+        padding: 0.75rem;
+        vertical-align: top;
+        border-top: 1px solid #dee2e6;
+    }
+
+    .table thead th {
+        vertical-align: bottom;
+        border-bottom: 2px solid #dee2e6;
+    }
+
+    .table tbody + tbody {
+        border-top: 2px solid #dee2e6;
+    }
+
+.table-sm th,
+.table-sm td {
+    padding: 0.3rem;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+    .table-bordered th,
+    .table-bordered td {
+        border: 1px solid #dee2e6;
+    }
+
+    .table-bordered thead th,
+    .table-bordered thead td {
+        border-bottom-width: 2px;
+    }
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+.table-primary,
+.table-primary > th,
+.table-primary > td {
+    background-color: #b8daff;
+}
+
+.table-hover .table-primary:hover {
+    background-color: #9fcdff;
+}
+
+    .table-hover .table-primary:hover > td,
+    .table-hover .table-primary:hover > th {
+        background-color: #9fcdff;
+    }
+
+.table-secondary,
+.table-secondary > th,
+.table-secondary > td {
+    background-color: #d6d8db;
+}
+
+.table-hover .table-secondary:hover {
+    background-color: #c8cbcf;
+}
+
+    .table-hover .table-secondary:hover > td,
+    .table-hover .table-secondary:hover > th {
+        background-color: #c8cbcf;
+    }
+
+.table-success,
+.table-success > th,
+.table-success > td {
+    background-color: #c3e6cb;
+}
+
+.table-hover .table-success:hover {
+    background-color: #b1dfbb;
+}
+
+td.form-control select {
+    width: 100%;
+    border: none;
+    background-color: transparent;
+}
+.priority-Red {
+    background-color: #FF0000; /* Red - Very High */
+}
+
+.priority-Yellow {
+    background-color: #FFFF00; /* Yellow - Medium */
+}
+
+.priority-Orange {
+    background-color: #FFA500; /* Orange - High */
+}
+
+.priority-Green {
+    background-color: #00FF00; /* Green - Low */
+}
+
+.priority-Blue {
+    background-color: #0000FF; /* Blue - Informational/In Progress */
+}
+
+.priority-Purple {
+    background-color: #800080; /* Purple - Planning/On Hold */
+}
+
+.priority-Beige {
+    background-color: #F5F5DC; /* Beige - On Hold/Waiting/Not Urgent */
+}
+
+.show-dialog {
+    display: block;
+    padding: 0;
+}
+
+.modal-body {
+    color: #000000;
+}
+
+.login_form {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    border: 2px solid #f2f2f2;
+    padding:20px 20px 20px 20px;
+    width:30vw;
+    border-radius:10px;
+    margin-top: 100px;
+}
+
+.login_body{
+    display:flex;
+    align-content:center;
+    justify-content:center;  
+    height: 500px;
+}

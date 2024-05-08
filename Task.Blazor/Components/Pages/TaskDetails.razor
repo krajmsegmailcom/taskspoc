@@ -1,0 +1,89 @@
+﻿@page "/task-details/{TaskId:int}"
+@inject HttpClient HttpClient
+@using Task.Blazor.Components
+@using static Task.Blazor.Components.Pages.Home
+
+@code {
+    [Parameter]
+    public int TaskId { get; set; }
+    private bool showAddActivityModal;
+    private ActivityModel newActivity = new ActivityModel();
+    private List<ActivityModel> activities; // Use a list to store multiple activities
+    private string user = GlobalVariables.GlobalUsername;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadTaskDetails();
+    }
+
+    private async Task LoadTaskDetails()
+    {
+        try
+        {
+            var response = await HttpClient.GetAsync($"api/Task/get-activities/{TaskId}");
+            if (response.IsSuccessStatusCode)
+            {
+                activities = await response.Content.ReadAsAsync<List<ActivityModel>>(); // Deserialize into a list of ActivityModel
+            }
+            else
+            {
+                Console.Error.WriteLine($"Failed to load task details: {response.StatusCode}");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.Error.WriteLine("Failed to load task details: " + ex.Message);
+        }
+    }
+}
+
+@if (activities != null && activities.Any())
+{
+    <div>
+        <h3 class="mt-3">Activities for Task</h3>
+        @foreach (var activity in activities)
+        {
+            if (user == "admin" || user == activity.DoneBy)
+            {
+                <table>
+                    <tbody>
+                        <tr>
+                            <td colspan="4">
+                                <table width="100%">
+                                    <thead>
+                                        <tr>
+                                            <td>Activity ID:</td>
+                                            <td>Done By:</td>
+                                            <td>Date:</td>
+                                            <td>Description:</td>
+                                        </tr>
+                                    </thead>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="4">
+                                <table width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td>@activity.Id</td>
+                                            <td>@activity.DoneBy</td>
+                                            <td>@activity.ActivityDate.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                                            <td>@activity.Description</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+
+            }
+        }
+    </div>
+}
+else
+{
+    <p>Loading task details or no activities found...</p>
+}

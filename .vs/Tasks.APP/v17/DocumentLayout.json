@@ -1,0 +1,985 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\task5\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870722D4-381A-41A8-A0E7-638FA920F8C2}|Tasks.Application\\Tasks.Application.csproj|c:\\task5\\test\\tasks.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870722D4-381A-41A8-A0E7-638FA920F8C2}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870722D4-381A-41A8-A0E7-638FA920F8C2}|Tasks.Application\\Tasks.Application.csproj|c:\\task5\\test\\tasks.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870722D4-381A-41A8-A0E7-638FA920F8C2}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870722D4-381A-41A8-A0E7-638FA920F8C2}|Tasks.Application\\Tasks.Application.csproj|c:\\task5\\test\\tasks.application\\services\\databasestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870722D4-381A-41A8-A0E7-638FA920F8C2}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\services\\databasestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4786A99B-8B40-45B7-A1E6-23A45494E6CF}|Tasks.Tests\\Tasks.Tests.csproj|c:\\task5\\test\\tasks.tests\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4786A99B-8B40-45B7-A1E6-23A45494E6CF}|Tasks.Tests\\Tasks.Tests.csproj|solutionrelative:tasks.tests\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\entities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\entities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\tasktable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\tasktable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\taskdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\taskdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\tasksearchcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\tasksearchcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\task.blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\task.blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\entities\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\entities\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|c:\\task5\\test\\tasks.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|solutionrelative:tasks.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\tasksview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\tasksview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4786A99B-8B40-45B7-A1E6-23A45494E6CF}|Tasks.Tests\\Tasks.Tests.csproj|c:\\task5\\test\\tasks.tests\\taskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4786A99B-8B40-45B7-A1E6-23A45494E6CF}|Tasks.Tests\\Tasks.Tests.csproj|solutionrelative:tasks.tests\\taskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE723275-FF76-4886-94AD-8D8349D8DA41}|Tasks.Infrastructure\\Tasks.Infrastructure.csproj|c:\\task5\\test\\tasks.infrastructure\\data\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE723275-FF76-4886-94AD-8D8349D8DA41}|Tasks.Infrastructure\\Tasks.Infrastructure.csproj|solutionrelative:tasks.infrastructure\\data\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\entities\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\entities\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|c:\\task5\\test\\tasks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|solutionrelative:tasks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|c:\\task5\\test\\tasks.api\\tasks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|solutionrelative:tasks.api\\tasks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\entities\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\entities\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|c:\\task5\\test\\tasks.api\\controllers\\taskcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|solutionrelative:tasks.api\\controllers\\taskcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE723275-FF76-4886-94AD-8D8349D8DA41}|Tasks.Infrastructure\\Tasks.Infrastructure.csproj|c:\\task5\\test\\tasks.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE723275-FF76-4886-94AD-8D8349D8DA41}|Tasks.Infrastructure\\Tasks.Infrastructure.csproj|solutionrelative:tasks.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE723275-FF76-4886-94AD-8D8349D8DA41}|Tasks.Infrastructure\\Tasks.Infrastructure.csproj|c:\\task5\\test\\tasks.infrastructure\\tasks.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE723275-FF76-4886-94AD-8D8349D8DA41}|Tasks.Infrastructure\\Tasks.Infrastructure.csproj|solutionrelative:tasks.infrastructure\\tasks.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506104901_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|c:\\task5\\test\\tasks.api\\controllers\\activityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|solutionrelative:tasks.api\\controllers\\activityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\entities\\enum\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\entities\\enum\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|c:\\task5\\test\\tasks.api\\controllers\\activityupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|solutionrelative:tasks.api\\controllers\\activityupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870722D4-381A-41A8-A0E7-638FA920F8C2}|Tasks.Application\\Tasks.Application.csproj|c:\\task5\\test\\tasks.application\\tasks.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{870722D4-381A-41A8-A0E7-638FA920F8C2}|Tasks.Application\\Tasks.Application.csproj|solutionrelative:tasks.application\\tasks.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506031252_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\tasks.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\tasks.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|c:\\task5\\test\\task.blazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E7A2085-A1BD-44AC-8332-C17717475E8E}|Task.Blazor\\Task.Blazor.csproj|solutionrelative:task.blazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|c:\\task5\\test\\tasks.api\\tasks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|solutionrelative:tasks.api\\tasks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|c:\\task5\\test\\tasks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64E37206-9D6A-4531-99E3-B9B9D8AA7070}|Tasks.API\\Tasks.API.csproj|solutionrelative:tasks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|c:\\task5\\test\\tasks.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41226F65-0956-481F-B717-FCC4994639E0}|Tasks.Core\\Tasks.Core.csproj|solutionrelative:tasks.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429064846_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429054747_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429053353_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428220720_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428212927_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428173045_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428152226_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\task\\test\\Tasks.Core\\Entities\\Common\\Tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE723275-FF76-4886-94AD-8D8349D8DA41}|Tasks.Infrastructure\\Tasks.Infrastructure.csproj|c:\\task5\\test\\tasks.infrastructure\\migrations\\20240507141812_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE723275-FF76-4886-94AD-8D8349D8DA41}|Tasks.Infrastructure\\Tasks.Infrastructure.csproj|solutionrelative:tasks.infrastructure\\migrations\\20240507141812_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 144,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Taskstatus.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Entities\\Enum\\Taskstatus.cs",
+              "RelativeDocumentMoniker": "Tasks.Core\\Entities\\Enum\\Taskstatus.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Entities\\Enum\\Taskstatus.cs",
+              "RelativeToolTip": "Tasks.Core\\Entities\\Enum\\Taskstatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:27:30.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\TaskModel.cs",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\TaskModel.cs",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\TaskModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:54:37.232Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Taskstatus.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Taskstatus.cs",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Taskstatus.cs",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Taskstatus.cs",
+              "RelativeToolTip": "Task.Blazor\\Components\\Taskstatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:17:42.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskSearchCriteria.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\TaskSearchCriteria.cs",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\TaskSearchCriteria.cs",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\TaskSearchCriteria.cs",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\TaskSearchCriteria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:17:03.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActivityModel.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\ActivityModel.cs",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\ActivityModel.cs",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\ActivityModel.cs",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\ActivityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:08:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T17:46:27.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240507141812_InitialCreate.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Infrastructure\\Migrations\\20240507141812_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Tasks.Infrastructure\\Migrations\\20240507141812_InitialCreate.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Infrastructure\\Migrations\\20240507141812_InitialCreate.cs",
+              "RelativeToolTip": "Tasks.Infrastructure\\Migrations\\20240507141812_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:18:12.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tasktable.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Tasktable.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\Tasktable.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Tasktable.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\Tasktable.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:50:03.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Tasks.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Entities\\User.cs",
+              "RelativeToolTip": "Tasks.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:07:14.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240506104901_Initialcreate.cs",
+              "DocumentMoniker": "C:\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506104901_Initialcreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506104901_Initialcreate.cs",
+              "ToolTip": "C:\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506104901_Initialcreate.cs",
+              "RelativeToolTip": "..\\..\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506104901_Initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:49:01.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHcUAAAAAAAAAAAmwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-06T10:37:33.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Routes.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Routes.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T08:33:45.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Task.Blazor.csproj",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Task.Blazor.csproj",
+              "RelativeDocumentMoniker": "Task.Blazor\\Task.Blazor.csproj",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Task.Blazor.csproj",
+              "RelativeToolTip": "Task.Blazor\\Task.Blazor.csproj",
+              "ViewState": "AQIAAA4AAADASDilefETwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T06:51:10.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240506031252_InitialCreate.cs",
+              "DocumentMoniker": "C:\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506031252_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506031252_InitialCreate.cs",
+              "ToolTip": "C:\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506031252_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\task4\\test\\Tasks.Infrastructure\\Migrations\\20240506031252_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:12:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaskControllerTests.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Tests\\TaskControllerTests.cs",
+              "RelativeDocumentMoniker": "Tasks.Tests\\TaskControllerTests.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Tests\\TaskControllerTests.cs",
+              "RelativeToolTip": "Tasks.Tests\\TaskControllerTests.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAAAYwDMBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:42:32.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Tests\\TaskService.cs",
+              "RelativeDocumentMoniker": "Tasks.Tests\\TaskService.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Tests\\TaskService.cs",
+              "RelativeToolTip": "Tasks.Tests\\TaskService.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:21:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\..\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\..\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAIUAAAAAAAAAAABBwJMAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T21:14:29.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TasksView.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\TasksView.cs",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\TasksView.cs",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\TasksView.cs",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\TasksView.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:02:21.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\..\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\..\\Users\\INTPL001\\Desktop\\test\\Task.Blazor\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAB0AAAAAAAAAAABRwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T16:39:48.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T11:24:02.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Task.Blazor\\wwwroot\\index.html",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\wwwroot\\index.html",
+              "RelativeToolTip": "Task.Blazor\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-04T20:03:12.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskDetails.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\TaskDetails.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\TaskDetails.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\TaskDetails.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\TaskDetails.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T15:27:20.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Task.Blazor\\Services\\TaskService.cs",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Services\\TaskService.cs",
+              "RelativeToolTip": "Task.Blazor\\Services\\TaskService.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAIA1wKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:10:49.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Application\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Tasks.Application\\Services\\TaskService.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Application\\Services\\TaskService.cs",
+              "RelativeToolTip": "Tasks.Application\\Services\\TaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:52:13.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Tasks.API\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Tasks.API\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAkwIYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:52:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T13:29:28.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\App.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\App.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T16:36:57.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Entities\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Tasks.Core\\Entities\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Entities\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "Tasks.Core\\Entities\\Interfaces\\ITaskService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:30:44.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T13:37:35.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "Task.Blazor\\Program.cs",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Program.cs",
+              "RelativeToolTip": "Task.Blazor\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:30:01.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseStartup.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Application\\Services\\DatabaseStartup.cs",
+              "RelativeDocumentMoniker": "Tasks.Application\\Services\\DatabaseStartup.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Application\\Services\\DatabaseStartup.cs",
+              "RelativeToolTip": "Tasks.Application\\Services\\DatabaseStartup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:32:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Application\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Tasks.Application\\Services\\EmailService.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Application\\Services\\EmailService.cs",
+              "RelativeToolTip": "Tasks.Application\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:20:56.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "Tasks.Core\\Entities\\Task.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Entities\\Task.cs",
+              "RelativeToolTip": "Tasks.Core\\Entities\\Task.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:14:56.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Task.Blazor\\wwwroot\\app.css",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\wwwroot\\app.css",
+              "RelativeToolTip": "Task.Blazor\\wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-30T19:28:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T13:45:42.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Entities\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Tasks.Core\\Entities\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Entities\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Tasks.Core\\Entities\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:36:05.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Tasks.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Tasks.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAOAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:31:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Tasks.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Tasks.Infrastructure\\Tasks.Infrastructure.csproj",
+              "ToolTip": "C:\\task5\\test\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj",
+              "RelativeToolTip": "Tasks.Infrastructure\\Tasks.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T18:01:45.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\task5\\test\\Task.Blazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Task.Blazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\task5\\test\\Task.Blazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "Task.Blazor\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T14:14:46.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ActivityUpdateRequest.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.API\\Controllers\\ActivityUpdateRequest.cs",
+              "RelativeDocumentMoniker": "Tasks.API\\Controllers\\ActivityUpdateRequest.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.API\\Controllers\\ActivityUpdateRequest.cs",
+              "RelativeToolTip": "Tasks.API\\Controllers\\ActivityUpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:15:11.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ActivityRequest.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.API\\Controllers\\ActivityRequest.cs",
+              "RelativeDocumentMoniker": "Tasks.API\\Controllers\\ActivityRequest.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.API\\Controllers\\ActivityRequest.cs",
+              "RelativeToolTip": "Tasks.API\\Controllers\\ActivityRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:14:57.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Tasks.API.http",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.API\\Tasks.API.http",
+              "RelativeDocumentMoniker": "Tasks.API\\Tasks.API.http",
+              "ToolTip": "C:\\task5\\test\\Tasks.API\\Tasks.API.http",
+              "RelativeToolTip": "Tasks.API\\Tasks.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-28T13:21:03.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Tasks.Application.csproj",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Application\\Tasks.Application.csproj",
+              "RelativeDocumentMoniker": "Tasks.Application\\Tasks.Application.csproj",
+              "ToolTip": "C:\\task5\\test\\Tasks.Application\\Tasks.Application.csproj",
+              "RelativeToolTip": "Tasks.Application\\Tasks.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T14:17:10.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Entities\\Activity.cs",
+              "RelativeDocumentMoniker": "Tasks.Core\\Entities\\Activity.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Entities\\Activity.cs",
+              "RelativeToolTip": "Tasks.Core\\Entities\\Activity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:56:58.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TaskCreateRequest.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.API\\Controllers\\TaskCreateRequest.cs",
+              "RelativeDocumentMoniker": "Tasks.API\\Controllers\\TaskCreateRequest.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.API\\Controllers\\TaskCreateRequest.cs",
+              "RelativeToolTip": "Tasks.API\\Controllers\\TaskCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:54:46.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Tasks.API.csproj",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.API\\Tasks.API.csproj",
+              "RelativeDocumentMoniker": "Tasks.API\\Tasks.API.csproj",
+              "ToolTip": "C:\\task5\\test\\Tasks.API\\Tasks.API.csproj",
+              "RelativeToolTip": "Tasks.API\\Tasks.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T12:47:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.API\\Program.cs",
+              "RelativeDocumentMoniker": "Tasks.API\\Program.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.API\\Program.cs",
+              "RelativeToolTip": "Tasks.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:28:15.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Tasks.API\\appsettings.json",
+              "ToolTip": "C:\\task5\\test\\Tasks.API\\appsettings.json",
+              "RelativeToolTip": "Tasks.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T12:24:21.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240429064846_InitialCreate.cs",
+              "DocumentMoniker": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429064846_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429064846_InitialCreate.cs",
+              "ToolTip": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429064846_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429064846_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:48:46.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Tasks.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Tasks.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:41:45.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TasksDbContext.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Infrastructure\\Data\\TasksDbContext.cs",
+              "RelativeDocumentMoniker": "Tasks.Infrastructure\\Data\\TasksDbContext.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Infrastructure\\Data\\TasksDbContext.cs",
+              "RelativeToolTip": "Tasks.Infrastructure\\Data\\TasksDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:21:13.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Tasks.Core.csproj",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj",
+              "RelativeDocumentMoniker": "Tasks.Core\\Tasks.Core.csproj",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj",
+              "RelativeToolTip": "Tasks.Core\\Tasks.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T06:09:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240429053353_InitialCreate.cs",
+              "DocumentMoniker": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429053353_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429053353_InitialCreate.cs",
+              "ToolTip": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429053353_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429053353_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:33:53.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\task5\\test\\Tasks.Core\\Entities\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Tasks.Core\\Entities\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\task5\\test\\Tasks.Core\\Entities\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Tasks.Core\\Entities\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:22:32.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240429054747_InitialCreate.cs",
+              "DocumentMoniker": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429054747_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429054747_InitialCreate.cs",
+              "ToolTip": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429054747_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240429054747_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:47:48.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240428220720_InitialCreate.cs",
+              "DocumentMoniker": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428220720_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428220720_InitialCreate.cs",
+              "ToolTip": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428220720_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428220720_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:07:20.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240428173045_InitialCreate.cs",
+              "DocumentMoniker": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428173045_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428173045_InitialCreate.cs",
+              "ToolTip": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428173045_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428173045_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:30:45.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240428212927_InitialCreate.cs",
+              "DocumentMoniker": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428212927_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428212927_InitialCreate.cs",
+              "ToolTip": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428212927_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428212927_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:29:27.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240428152226_Initial.cs",
+              "DocumentMoniker": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428152226_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428152226_Initial.cs",
+              "ToolTip": "C:\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428152226_Initial.cs",
+              "RelativeToolTip": "..\\..\\task\\test\\Tasks.Infrastructure\\Migrations\\20240428152226_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:22:26.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\task\\test\\Tasks.Core\\Entities\\Common\\Tag.cs",
+              "RelativeDocumentMoniker": "..\\..\\task\\test\\Tasks.Core\\Entities\\Common\\Tag.cs",
+              "ToolTip": "C:\\task\\test\\Tasks.Core\\Entities\\Common\\Tag.cs",
+              "RelativeToolTip": "..\\..\\task\\test\\Tasks.Core\\Entities\\Common\\Tag.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:54:33.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

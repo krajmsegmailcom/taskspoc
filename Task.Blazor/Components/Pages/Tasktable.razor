@@ -1,0 +1,486 @@
+﻿@page "/tasktable"
+@inject HttpClient _httpClient
+@inject TaskService TaskService
+@using Newtonsoft.Json
+@using System.Text
+@using Task.Blazor.Services
+@using Task.Blazor.Components.Pages;
+@inject HttpClient _httpClient
+@inject IJSRuntime JSRuntime
+@rendermode InteractiveServer
+@inject NavigationManager NavigationManager
+
+
+<h2 class="mt-3">Task Data Table</h2>
+
+<div class="d-flex justify-content-between align-items-center">
+    <div class="input-group mt-3 mb-3" style="width: 50%;">
+        <input type="text" class="form-control" placeholder="Search..." @bind="searchTerm">
+        <div class="input-group-append">
+            <button class="btn btn-outline-secondary ms-3" @onclick="PerformSearch">Search</button>
+        </div>
+    </div>
+    <button class="btn btn-danger me-3" @onclick="Logout">Logout</button>
+</div>
+
+<div class="table-responsive mt-4">
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Task Name</th>
+                <th>Tags</th>
+                <th>Due Date</th>
+                <th>Color</th>
+                @if (user_type == 1)
+                {
+
+                    <th>Assigned To</th>
+                }
+                <th>Status</th>
+                <th>Actions</th>
+                 
+                <th>Activites</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var taskModel in FilteredTasks)
+            {
+                taskModel.Activities ??= new List<ActivityModelview>();
+                <tr>
+                    <td>@taskModel.TaskName</td>
+                    <td>@string.Join(", ", taskModel.Tags)</td>
+                    <td>@taskModel.DueDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                    <td class="@("priority-" + taskModel.Color)">
+                        <input type="hidden" @bind="@taskModel.Color" />
+                    </td>
+                    </td>
+                     @if (user_type == 1)
+                {
+                    <td>@taskModel.AssignedTo</td>
+                }
+                    <td class="status-@(taskModel.Status)">
+                        @{
+                            string status = taskModel.Status;
+                        }
+                        @switch (status)
+                        {
+                            case "1":
+                                <text>PENDING</text>
+                                break;
+                            case "3":
+                                <text>COMPLETED</text>
+                                break;
+                            case "2":
+                                <text>IN PROGRESS</text>
+                                break;
+                            default:
+                                <text>UNKNOWN</text>
+                                break;
+                        }
+                    </td>
+                    
+                    <td>
+                        <button class="btn btn-primary p-0">
+
+
+
+
+                            <div class="modal @this.modalDisplayCss" tabindex="-1">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">Modal title</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" @onclick=this.Close></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <EditForm Model="@taskModel" OnValidSubmit="()=>UpdateTask(taskToUpdate.Id)">
+                                                <DataAnnotationsValidator />
+                                                <ValidationSummary />
+                                                 @if (user_type == 1)
+                                                {
+                                                    <div class="form-group">
+                                                        <label for="TaskName" class="mt-2">Task Name:</label>
+                                                        <InputText id="TaskName" class="form-control mt-2" @bind-Value="taskToUpdate.TaskName" />
+                                                    </div>
+
+
+
+                                                    <div class="form-group">
+                                                        <label for="DueDate" class="mt-2">Due Date:</label>
+                                                        <InputDate id="DueDate" class="form-control mt-2" @bind-Value="taskToUpdate.DueDate" />
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <label for="Color" class="mt-2">Color:</label>
+                                                        <InputSelect id="Color" class="form-control mt-2" @bind-Value="taskToUpdate.Color">
+                                                             
+                                                             <option value="Red">High priority, urgent tasks</option>
+                                                       <option value="Yellow">Medium priority, moderately urgent tasks</option>
+                                                       <option value="Green">Low priority, less urgent tasks</option>
+                                                        <option value="Blue">Informational tasks or tasks in progress</option>
+                                                      <option value="Orange">Tasks with an approaching deadline</option>
+                                                      <option value="Purple">Tasks used for planning or on hold</option>
+                                                       <option value="Beige">Tasks on hold, waiting for input, or not urgent</option>
+                                                        </InputSelect>
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <label for="AssignedTo" class="mt-2">Assigned To:</label>
+                                                        <InputText id="AssignedTo" class="form-control mt-2" @bind-Value="taskToUpdate.AssignedTo" />
+                                                    </div>
+                                                }
+                                                <div class="form-group">
+                                                    <label for="Status" class="mt-2">Status:</label>
+                                                    <InputSelect id="Status" class="form-control mt-2" @bind-Value="taskToUpdate.Status">
+                                                        <option value="">Choose...</option>
+                                                        <option value="1">Pending</option>
+                                                        <option value="2">In Progress</option>
+                                                        <option value="3">Completed</option>
+                                                    </InputSelect>
+                                                </div>
+                                                <button type="submit" class="btn btn-success mt-3">Update Task</button>
+                                            </EditForm>
+
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" @onclick=this.Close>Close</button>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <button class="btn btn-primary" @onclick="() => Open(taskModel)">Edit</button>
+
+
+                        </button>
+                        @if (user_type == 1)
+                        {
+                        <button class="btn btn-danger btn-sm p-2 ms-2" TValue="int" @onclick="() => DeleteTask(taskModel.Id)">Delete</button>
+                        }
+                    </td>
+
+
+
+                    <td>
+
+                        <button class="btn btn-success" @onclick="() => OpenAddActivityModal(taskModel.Id)">Add Activity</button>
+                        <button class="btn" @onclick="() => ToggleActivities(taskModel)">
+<i class="@(taskModel.AreActivitiesVisible ? "fas fa-eye-slash" : "fas fa-eye")"></i>
+</button>
+                        @if (showAddActivityModal)
+                        {
+                            <div class="modal show-dialog" tabindex="-1">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">Add Activity to Task @TaskId</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" @onclick="CloseAddActivityModal"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <EditForm Model="newActivity" OnValidSubmit="HandleAddActivity">
+                                                <DataAnnotationsValidator />
+                                                <ValidationSummary />
+
+                                                <div class="form-group">
+                                                    <label for="ActivityDate" class="mt-2">Activity Date:</label>
+                                                    <InputDate id="ActivityDate" class="form-control mt-2" @bind-Value="newActivity.ActivityDate" />
+                                                </div>
+                                               
+                                                @if (user_type == 1)
+                                                {
+                                                    <div class="form-group">
+                                                        <label for="DoneBy" class="mt-2">Done By:</label>
+                                                        <InputText id="DoneBy" class="form-control mt-2" @bind-Value="newActivity.DoneBy" />
+                                                    </div>
+                                                }
+                                                else
+                                                {
+                                                    newActivity.DoneBy = GlobalVariables.GlobalUsername;
+                                                }
+                                                
+                                                <div class="form-group">
+                                                    <label for="Description" class="mt-2">Description:</label>
+                                                    <InputTextArea id="Description" class="form-control mt-2" @bind-Value="newActivity.Description" />
+                                   
+                                                
+                                                </div>
+
+                                                <button type="submit" class="btn btn-primary mt-3">Add Activity</button>
+                                            </EditForm>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+
+                    </td>
+                </tr
+                                                   { 
+            
+<tr>
+@if (taskModel.AreActivitiesVisible)
+{
+<td colspan="100%">
+   
+
+
+<table class="table">
+<thead>
+<tr>
+     @if (user_type == 1)
+                {
+<th>Done By</th>
+                }
+<th>Date</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+@foreach (var act in taskModel.Activities)
+{
+<tr>
+     @if (user_type == 1)
+                                            {
+                                                <td>@act.DoneBy</td>}
+<td>@act.ActivityDate.ToString("yyyy-MM-dd HH:mm:ss")</td>
+<td>@act.Description</td>
+</tr>
+}
+</tbody>
+</table>
+</td>
+}
+</tr>
+
+                             
+            }
+
+        </tbody>
+    </table>
+
+
+</div>
+
+
+@code {
+    @using System.Diagnostics
+@using static Task.Blazor.Components.Pages.Home
+
+    private List<TasksView> Tasks { get; set; } = new List<TasksView>();
+    private List<TasksView> FilteredTasks { get; set; } = new List<TasksView>();
+    public List<ActivityModelview> Activities { get; set; } = new List<ActivityModelview>();
+    private string searchTerm = "";
+    private int user_type;
+    public bool AreActivitiesVisible { get; set; } 
+    protected override async Task OnInitializedAsync()
+    {
+        string username = GlobalVariables.GlobalUsername;
+        Console.WriteLine(username);
+        if (string.IsNullOrEmpty(username))
+        {
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+
+            if (username.Equals("admin", StringComparison.OrdinalIgnoreCase))
+            {
+                user_type = 1;
+            }
+            else
+            {
+                user_type = 0;
+            }
+        }
+        try
+        {
+            var json = await TaskService.GetAllTasksRawJson();
+            var allTasks = JsonConvert.DeserializeObject<List<TasksView>>(json);
+            FilteredTasks = username == "admin" ? allTasks : allTasks.Where(task => task.AssignedTo == username).ToList();
+        }
+        catch (Exception)
+        {
+
+        }
+    }
+
+   private async Task PerformSearch()
+{
+if (string.IsNullOrWhiteSpace(searchTerm))
+{
+var json = await TaskService.GetAllTasksRawJson();
+FilteredTasks = JsonConvert.DeserializeObject<List<TasksView>>(json);
+}
+else
+{
+var sdata = new TaskSearchCriteria { Taskname = searchTerm };
+var jsonString = JsonConvert.SerializeObject(sdata);
+
+// Send the JSON string to your search API and get the response
+var response = await _httpClient.PostAsync(
+"https://localhost:7266/api/Task/search", 
+new StringContent(jsonString, Encoding.UTF8, "application/json"));
+
+response.EnsureSuccessStatusCode();
+
+// Read the response content as a raw JSON string
+var responseJson = await response.Content.ReadAsStringAsync();
+
+// Deserialize the response JSON to the expected type
+FilteredTasks = JsonConvert.DeserializeObject<List<TasksView>>(responseJson);
+}
+}
+
+    [Parameter]
+    public int TaskId { get; set; }
+
+    public async Task DeleteTask(int id)
+    {
+        var response = await TaskService.DeleteTaskAsync(id);
+        var IsDeleted = response;
+        if (IsDeleted)
+        {
+            var taskToRemove = Tasks.FirstOrDefault(t => t.Id == id);
+            if (taskToRemove != null)
+            {
+                Tasks.Remove(taskToRemove);
+            }
+
+            var filteredTaskToRemove = FilteredTasks.FirstOrDefault(t => t.Id == id);
+            if (filteredTaskToRemove != null)
+            {
+                FilteredTasks.Remove(filteredTaskToRemove);
+            }
+        }
+    }
+    private void ViewActivity(int taskId)
+    {
+        NavigationManager.NavigateTo($"/task-details/{taskId}");
+    }
+
+    @code {
+        private bool _modalVisibility;
+        private string modalDisplayCss => _modalVisibility ? "show-dialog" : "";
+        private TasksView taskToUpdate = new TasksView();
+
+        private Task Open(TasksView task)
+        {
+            _modalVisibility = true;
+            taskToUpdate = task;
+            return Task.CompletedTask;
+        }
+
+        private Task Close()
+        {
+            _modalVisibility = false;
+            return Task.CompletedTask;
+        }
+
+        private Task Save()
+        {
+            _modalVisibility = false;
+            return Task.CompletedTask;
+        }
+
+
+
+        private bool showAddActivityModal;
+        private ActivityModel newActivity = new ActivityModel();
+        private int addingToTaskId;  // Keep track of the task ID to which the activity is being added
+
+        private void OpenAddActivityModal(int taskId)
+        {
+            addingToTaskId = taskId;
+            newActivity = new ActivityModel(); // Initialize a new activity
+
+            showAddActivityModal = true;
+        }
+
+        private void CloseAddActivityModal()
+        {
+            showAddActivityModal = false;
+        }
+
+        private async Task HandleAddActivity()
+        {
+            var success = await TaskService.AddActivity(newActivity, addingToTaskId);
+            if (success)
+            {
+                showAddActivityModal = false;
+            }
+            else
+            {
+                Console.WriteLine("Failed to add activity.");
+            }
+        }
+
+
+        private async Task UpdateTask(int id)
+        {
+            try
+            {
+                int taskId = taskToUpdate.Id;
+
+                var success = await TaskService.UpdateTaskAsync(id, taskToUpdate.TaskName, [], taskToUpdate.DueDate, taskToUpdate.Color, taskToUpdate.AssignedTo,taskToUpdate.Status);
+
+                if (success)
+                {
+                    Console.WriteLine("Task updated successfully.");
+                }
+                else
+                {
+                    Console.WriteLine("Failed to update task.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("An error occurred: " + ex.Message);
+            }
+        }
+        private void Logout()
+        {
+            GlobalVariables.GlobalUsername = null;
+            NavigationManager.NavigateTo("/"); 
+        }
+  private async Task ToggleActivities(TasksView taskModel)
+{
+taskModel.AreActivitiesVisible = !taskModel.AreActivitiesVisible;
+if (taskModel.AreActivitiesVisible)
+{
+try
+{
+var response = await _httpClient.GetAsync($"api/Task/get-activities/{taskModel.Id}");
+if (response.IsSuccessStatusCode)
+{
+var jsonResponse = await response.Content.ReadAsStringAsync();
+taskModel.Activities = JsonConvert.DeserializeObject<List<ActivityModelview>>(jsonResponse);
+}
+else
+{
+// Handle the error, maybe set Activities to an empty list or show a message
+taskModel.Activities = new List<ActivityModelview>();
+}
+}
+catch (HttpRequestException e)
+{
+// Handle the exception, log it, or show a message to the user
+Console.WriteLine($"An error occurred: {e.Message}");
+}
+}
+else
+{
+// Optionally clear the activities if they should not be retained when hidden
+taskModel.Activities.Clear();
+}
+}
+        
+
+
+}
+
+
+}
+

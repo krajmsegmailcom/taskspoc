@@ -1,0 +1,110 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+@inject TaskService TaskService
+@using Newtonsoft.Json
+@using MudBlazor
+@using System.Text
+@using Task.Blazor.Services
+@inject ISnackbar Snackbar
+@inject NavigationManager NavigationManager
+
+@code {
+    private List<TaskModel> tasks = new List<TaskModel> { new TaskModel() };
+
+    private async Task CreateTasks()
+    {
+        foreach (var task in tasks)
+        {
+            var tagValues = task.Tags.Select(tag => tag.Value).ToList();
+            var response = await TaskService.CreateTaskAsync(task.TaskName, tagValues, task.DueDate, task.Color, task.AssignedTo);
+
+            if (response)
+            {
+                Snackbar.Add($"Task '{task.TaskName}' created successfully!", Severity.Success);
+
+            }
+            else
+            {
+                Console.WriteLine($"Creating task failed for {task.TaskName}");
+
+            }
+        }
+        NavigationManager.NavigateTo("/");
+
+        // Navigate to another page after all tasks are created
+
+    }
+
+    private void AddNewTask()
+    {
+        tasks.Add(new TaskModel());
+    }
+
+    private void RemoveTask(int index)
+    {
+        if (index >= 0 && index < tasks.Count)
+        {
+            tasks.RemoveAt(index);
+        }
+    }
+}
+
+<div>
+    @foreach (var task in tasks.ToList())
+    {
+        var index = tasks.IndexOf(task);
+        <EditForm Model="@task" OnValidSubmit="@CreateTasks">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div class="form-group mt-3">
+                <label for="taskName">Task Name:</label>
+                <InputText id="taskName" @bind-Value="@task.TaskName" class="form-control" />
+            </div>
+
+            <div class="form-group mt-3">
+                <label>Tags:</label>
+                @foreach (var tag in task.Tags.ToList())
+                {
+                    var tagIndex = task.Tags.IndexOf(tag);
+                    <div class="input-group mb-2">
+                        <input type="text" class="form-control" @bind="tag.Value" @bind:event="oninput" />
+                        <button class="btn btn-danger" type="button" @onclick="() => task.Tags.RemoveAt(tagIndex)">Remove</button>
+                    </div>
+                }
+                <button type="button" class="btn btn-primary ms-2" @onclick="() => task.Tags.Add(new TagItem { Value = string.Empty })">Add Tag</button>
+            </div>
+
+            <div class="form-group mt-3">
+                <label for="dueDate">Due Date:</label>
+                <InputDate id="dueDate" @bind-Value="@task.DueDate" class="form-control" />
+            </div>
+
+            <div class="form-group mt-3">
+                <label for="color">Priority:</label>
+                <InputSelect id="color" @bind-Value="@task.Color" class="form-control">
+                    <option value="">Select Priority</option>
+                    <option value="Red">High priority, urgent tasks</option>
+                    <option value="Yellow">Medium priority, moderately urgent tasks</option>
+                    <option value="Green">Low priority, less urgent tasks</option>
+                    <option value="Blue">Informational tasks or tasks in progress</option>
+                    <option value="Orange">Tasks with an approaching deadline</option>
+                    <option value="Purple">Tasks used for planning or on hold</option>
+                    <option value="Beige">Tasks on hold, waiting for input, or not urgent</option>
+                </InputSelect>
+            </div>
+
+            <div class="form-group mt-3">
+                <label for="assignedTo">Assigned To:</label>
+                <InputText id="assignedTo" @bind-Value="@task.AssignedTo" class="form-control" />
+            </div>
+
+            <button type="button" class="btn btn-danger mt-3" @onclick="() => RemoveTask(index)">Remove Task</button>
+        </EditForm>
+    }
+</div>
+
+<div class="d-flex justify-content-center mt-3">
+<button type="button" class="btn btn-primary" @onclick="AddNewTask">Add New Task</button>
+<button type="submit" class="btn btn-success ms-3" @onclick="CreateTasks">Create All Tasks</button>
+</div>

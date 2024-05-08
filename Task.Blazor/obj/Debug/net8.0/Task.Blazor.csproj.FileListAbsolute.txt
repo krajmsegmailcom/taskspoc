@@ -1,0 +1,353 @@
+C:\task\test\Task.Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\task\test\Task.Blazor\bin\Debug\net8.0\appsettings.json
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.staticwebassets.runtime.json
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.exe
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.deps.json
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.runtimeconfig.json
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.pdb
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\task\test\Task.Blazor\bin\Debug\net8.0\MudBlazor.dll
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.AssemblyReference.cache
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfoInputs.cache
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfo.cs
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.CoreCompileInputs.cache
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\task\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\task\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\task\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Task.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\task\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Task.Blazor.props
+C:\task\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task.Blazor.props
+C:\task\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task.Blazor.props
+C:\task\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\task\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\task\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\task\test\Task.Blazor\obj\Debug\net8.0\scopedcss\bundle\Task.Blazor.styles.css
+C:\task\test\Task.Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Task.Blazor.bundle.scp.css
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Bla.7D0C416A.Up2Date
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.dll
+C:\task\test\Task.Blazor\obj\Debug\net8.0\refint\Task.Blazor.dll
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.pdb
+C:\task\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.genruntimeconfig.cache
+C:\task\test\Task.Blazor\obj\Debug\net8.0\ref\Task.Blazor.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\appsettings.json
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.staticwebassets.runtime.json
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.exe
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.deps.json
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.runtimeconfig.json
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.pdb
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\MudBlazor.dll
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.AssemblyReference.cache
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfoInputs.cache
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfo.cs
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.CoreCompileInputs.cache
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Task.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Task.Blazor.props
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task.Blazor.props
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task.Blazor.props
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\scopedcss\bundle\Task.Blazor.styles.css
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Task.Blazor.bundle.scp.css
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Bla.7D0C416A.Up2Date
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.dll
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\refint\Task.Blazor.dll
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.pdb
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.genruntimeconfig.cache
+C:\Task\test\test\Task.Blazor\obj\Debug\net8.0\ref\Task.Blazor.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Task\test\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\appsettings.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.staticwebassets.runtime.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.exe
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.deps.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.runtimeconfig.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\MudBlazor.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.AssemblyReference.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfoInputs.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfo.cs
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.CoreCompileInputs.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Task.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Task.Blazor.props
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task.Blazor.props
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task.Blazor.props
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\scopedcss\bundle\Task.Blazor.styles.css
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Task.Blazor.bundle.scp.css
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Bla.7D0C416A.Up2Date
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\refint\Task.Blazor.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.genruntimeconfig.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\obj\Debug\net8.0\ref\Task.Blazor.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Task.Blazor\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.AssemblyReference.cache
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfoInputs.cache
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfo.cs
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.CoreCompileInputs.cache
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.dll
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\refint\Task.Blazor.dll
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.pdb
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\appsettings.json
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.staticwebassets.runtime.json
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.exe
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.deps.json
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.runtimeconfig.json
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.pdb
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Blazored.Toast.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\MudBlazor.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\task4\test\Task.Blazor\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Task.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Task.Blazor.props
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task.Blazor.props
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task.Blazor.props
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\scopedcss\bundle\Task.Blazor.styles.css
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Task.Blazor.bundle.scp.css
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Bla.7D0C416A.Up2Date
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.genruntimeconfig.cache
+C:\task4\test\Task.Blazor\obj\Debug\net8.0\ref\Task.Blazor.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\appsettings.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.staticwebassets.runtime.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.exe
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.deps.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.runtimeconfig.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Blazored.Toast.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\MudBlazor.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.AssemblyReference.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfoInputs.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfo.cs
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.CoreCompileInputs.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Task.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Task.Blazor.props
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task.Blazor.props
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task.Blazor.props
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\scopedcss\bundle\Task.Blazor.styles.css
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Task.Blazor.bundle.scp.css
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Bla.7D0C416A.Up2Date
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\refint\Task.Blazor.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.genruntimeconfig.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Task.Blazor\obj\Debug\net8.0\ref\Task.Blazor.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\test\Task.Blazor\bin\Debug\net8.0\appsettings.json
+C:\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.staticwebassets.runtime.json
+C:\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.exe
+C:\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.deps.json
+C:\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.runtimeconfig.json
+C:\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.pdb
+C:\test\Task.Blazor\bin\Debug\net8.0\Blazored.Toast.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\MudBlazor.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\test\Task.Blazor\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.AssemblyReference.cache
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfoInputs.cache
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfo.cs
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.CoreCompileInputs.cache
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Task.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Task.Blazor.props
+C:\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task.Blazor.props
+C:\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task.Blazor.props
+C:\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\test\Task.Blazor\obj\Debug\net8.0\scopedcss\bundle\Task.Blazor.styles.css
+C:\test\Task.Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Task.Blazor.bundle.scp.css
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Bla.7D0C416A.Up2Date
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.dll
+C:\test\Task.Blazor\obj\Debug\net8.0\refint\Task.Blazor.dll
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.pdb
+C:\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.genruntimeconfig.cache
+C:\test\Task.Blazor\obj\Debug\net8.0\ref\Task.Blazor.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\appsettings.json
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.staticwebassets.runtime.json
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.exe
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.deps.json
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.runtimeconfig.json
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Task.Blazor.pdb
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Blazored.Toast.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\MudBlazor.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\task5\test\Task.Blazor\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.AssemblyReference.cache
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfoInputs.cache
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.AssemblyInfo.cs
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.csproj.CoreCompileInputs.cache
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Task.Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Task.Blazor.props
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task.Blazor.props
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task.Blazor.props
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\scopedcss\bundle\Task.Blazor.styles.css
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Task.Blazor.bundle.scp.css
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Bla.7D0C416A.Up2Date
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.dll
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\refint\Task.Blazor.dll
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.pdb
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\Task.Blazor.genruntimeconfig.cache
+C:\task5\test\Task.Blazor\obj\Debug\net8.0\ref\Task.Blazor.dll

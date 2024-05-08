@@ -1,0 +1,88 @@
+D:\workspace\clients\uvaraj\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.deps.json
+D:\workspace\clients\uvaraj\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.dll
+D:\workspace\clients\uvaraj\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.pdb
+D:\workspace\clients\uvaraj\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\clients\uvaraj\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfoInputs.cache
+D:\workspace\clients\uvaraj\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfo.cs
+D:\workspace\clients\uvaraj\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.csproj.CoreCompileInputs.cache
+D:\workspace\clients\uvaraj\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.dll
+D:\workspace\clients\uvaraj\test\Tasks.Core\obj\Debug\net8.0\refint\Tasks.Core.dll
+D:\workspace\clients\uvaraj\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.pdb
+D:\workspace\clients\uvaraj\test\Tasks.Core\obj\Debug\net8.0\ref\Tasks.Core.dll
+C:\task\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.deps.json
+C:\task\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.dll
+C:\task\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.pdb
+C:\task\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\task\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfoInputs.cache
+C:\task\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfo.cs
+C:\task\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.csproj.CoreCompileInputs.cache
+C:\task\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.dll
+C:\task\test\Tasks.Core\obj\Debug\net8.0\refint\Tasks.Core.dll
+C:\task\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.pdb
+C:\task\test\Tasks.Core\obj\Debug\net8.0\ref\Tasks.Core.dll
+C:\Task\test\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.deps.json
+C:\Task\test\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.dll
+C:\Task\test\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.pdb
+C:\Task\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfoInputs.cache
+C:\Task\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfo.cs
+C:\Task\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.csproj.CoreCompileInputs.cache
+C:\Task\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.dll
+C:\Task\test\test\Tasks.Core\obj\Debug\net8.0\refint\Tasks.Core.dll
+C:\Task\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.pdb
+C:\Task\test\test\Tasks.Core\obj\Debug\net8.0\ref\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.deps.json
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfoInputs.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfo.cs
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.csproj.CoreCompileInputs.cache
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\obj\Debug\net8.0\refint\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.pdb
+C:\Users\Naveenmuthukumar\OneDrive\Desktop\test\test\Tasks.Core\obj\Debug\net8.0\ref\Tasks.Core.dll
+C:\task4\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.deps.json
+C:\task4\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.dll
+C:\task4\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.pdb
+C:\task4\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\task4\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfoInputs.cache
+C:\task4\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfo.cs
+C:\task4\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.csproj.CoreCompileInputs.cache
+C:\task4\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.dll
+C:\task4\test\Tasks.Core\obj\Debug\net8.0\refint\Tasks.Core.dll
+C:\task4\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.pdb
+C:\task4\test\Tasks.Core\obj\Debug\net8.0\ref\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.deps.json
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfoInputs.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfo.cs
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.csproj.CoreCompileInputs.cache
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\obj\Debug\net8.0\refint\Tasks.Core.dll
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.pdb
+C:\Users\Naveenmuthukumar\Downloads\test (2)\test\Tasks.Core\obj\Debug\net8.0\ref\Tasks.Core.dll
+C:\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.deps.json
+C:\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.dll
+C:\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.pdb
+C:\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfoInputs.cache
+C:\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfo.cs
+C:\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.csproj.CoreCompileInputs.cache
+C:\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.dll
+C:\test\Tasks.Core\obj\Debug\net8.0\refint\Tasks.Core.dll
+C:\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.pdb
+C:\test\Tasks.Core\obj\Debug\net8.0\ref\Tasks.Core.dll
+C:\task5\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.deps.json
+C:\task5\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.dll
+C:\task5\test\Tasks.Core\bin\Debug\net8.0\Tasks.Core.pdb
+C:\task5\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\task5\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfoInputs.cache
+C:\task5\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.AssemblyInfo.cs
+C:\task5\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.csproj.CoreCompileInputs.cache
+C:\task5\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.dll
+C:\task5\test\Tasks.Core\obj\Debug\net8.0\refint\Tasks.Core.dll
+C:\task5\test\Tasks.Core\obj\Debug\net8.0\Tasks.Core.pdb
+C:\task5\test\Tasks.Core\obj\Debug\net8.0\ref\Tasks.Core.dll
