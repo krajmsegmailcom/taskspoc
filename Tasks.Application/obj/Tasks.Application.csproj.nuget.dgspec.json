@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\task5\\test\\Tasks.Application\\Tasks.Application.csproj": {}
+    "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Application\\Tasks.Application.csproj": {}
   },
   "projects": {
-    "C:\\task5\\test\\Tasks.Application\\Tasks.Application.csproj": {
+    "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Application\\Tasks.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\task5\\test\\Tasks.Application\\Tasks.Application.csproj",
+        "projectUniqueName": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Application\\Tasks.Application.csproj",
         "projectName": "Tasks.Application",
-        "projectPath": "C:\\task5\\test\\Tasks.Application\\Tasks.Application.csproj",
-        "packagesPath": "C:\\Users\\INTPL001\\.nuget\\packages\\",
-        "outputPath": "C:\\task5\\test\\Tasks.Application\\obj\\",
+        "projectPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Application\\Tasks.Application.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\INTPL001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj": {
-                "projectPath": "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj"
+              "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\Tasks.Core.csproj": {
+                "projectPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\Tasks.Core.csproj"
               },
-              "C:\\task5\\test\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj": {
-                "projectPath": "C:\\task5\\test\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj"
+              "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj": {
+                "projectPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj"
               }
             }
           }
@@ -89,21 +94,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj": {
+    "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\Tasks.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj",
+        "projectUniqueName": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\Tasks.Core.csproj",
         "projectName": "Tasks.Core",
-        "projectPath": "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj",
-        "packagesPath": "C:\\Users\\INTPL001\\.nuget\\packages\\",
-        "outputPath": "C:\\task5\\test\\Tasks.Core\\obj\\",
+        "projectPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\Tasks.Core.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\INTPL001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,6 +120,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -149,21 +159,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\task5\\test\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj": {
+    "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\task5\\test\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj",
+        "projectUniqueName": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj",
         "projectName": "Tasks.Infrastructure",
-        "projectPath": "C:\\task5\\test\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\INTPL001\\.nuget\\packages\\",
-        "outputPath": "C:\\task5\\test\\Tasks.Infrastructure\\obj\\",
+        "projectPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Infrastructure\\Tasks.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\INTPL001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -171,14 +185,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj": {
-                "projectPath": "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj"
+              "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\Tasks.Core.csproj": {
+                "projectPath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\Tasks.Core.csproj"
               }
             }
           }
@@ -243,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

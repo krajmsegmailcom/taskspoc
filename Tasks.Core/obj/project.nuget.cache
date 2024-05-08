@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DA4fNGOQaD8ClRWua/cLsH4bTHLNhsiDDKUn5+ae5y+l3slhVz0sFAELWsmfbY8eBZuYqJReUMyBs10K6FNXbA==",
+  "dgSpecHash": "Tyl+V4LMcif+2+HqndTVjqelv4tTfhG+kJ3iSNOLG5L3S5C70e8sDDPwu/KRSD4clVXzW5cv4ZdKqfDpaMSong==",
   "success": true,
-  "projectFilePath": "C:\\task5\\test\\Tasks.Core\\Tasks.Core.csproj",
+  "projectFilePath": "D:\\workspace\\clients\\uvaraj\\poc\\taskspoc\\Tasks.Core\\Tasks.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
